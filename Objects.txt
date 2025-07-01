@@ -37,3 +37,7 @@
 10. Camera:
      States: lensType, batteryLevel, mode
      Behaviors: takePhoto(), changeMode(), deletMedia()
+
+11. WashingMachine:
+     States: waterLevel, remainingTime, loadSize
+     Behaviors: drainWater(), startWash(), turnOn()
