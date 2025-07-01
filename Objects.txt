@@ -66,6 +66,10 @@
      States: speed, isLocked, brand
      Behaviors: chargeBattery, braking, unlocking
 
+18. Student:
+     States: name, gpa, major
+     Behaviors: takeExam, checkGrades, studying
+
 
 
 
