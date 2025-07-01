@@ -49,3 +49,7 @@
 13. SmartLamp:
      States: brand, isOn, color
      Behaviors: changeColor(), connectToApp(), setMode()
+
+14. Guitar:
+     States: type, volumeLevel, brand
+     Behaviors: playChord, strumming, muting 
