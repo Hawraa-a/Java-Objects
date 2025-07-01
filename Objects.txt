@@ -1,3 +1,7 @@
 1. Car:
     States: currentSpeed, gearPosition, mileage
     Behaviors: shiftGear(), lockDoor(), startEngine()
+
+2. Phone:
+    States: batteryLevel, brand, storageUsed
+    Behaviors: installApp(), takePhoto(), makeCall()
