@@ -58,6 +58,10 @@
      States: mode, isConnected, batterLevel
      Behaviors: on\off, connecting, pressButton
 
+16. Book:
+     States: title, author, numPage
+     Behaviors: turnPage, opening, closing
+
 
 
 
