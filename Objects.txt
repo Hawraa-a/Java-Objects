@@ -29,3 +29,7 @@
 8. Printer:
     States: inkLevel, paperCount, connectionType
     Behaviors: addPaper(), refillInk(), turnOff()
+
+9. Hourse: 
+    States: name, age, color
+    Behaviors: eating(), sleeping(), running()
