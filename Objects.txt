@@ -21,3 +21,8 @@
 6. SmartWatch:
     States: heartRate, brand, batteryLevel
     Behaviors: showNotification(), checkBattery(), trackSteps()
+
+7. Microwave:
+    States:currentMode, powerLevel, brand
+    Behaviors:setTimer(), setPowerLevel(), changeMode()
+
