@@ -14,3 +14,6 @@
     States: isMuted, screenSize, volumeLevel
     Behaviors: switchInput(), changeChannel(), increaseVolume()
 
+5. CoffeeMachine:
+    States: waterLevel, beanLevel, temperature
+    Behaviors: refillWater(), displayStatus(), turnOn()
