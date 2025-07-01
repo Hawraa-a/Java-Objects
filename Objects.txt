@@ -53,3 +53,11 @@
 14. Guitar:
      States: type, volumeLevel, brand
      Behaviors: playChord, strumming, muting 
+
+15. GameController:
+     States: mode, isConnected, batterLevel
+     Behaviors: on\off, connecting, pressButton
+
+
+
+
