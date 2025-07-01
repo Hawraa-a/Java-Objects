@@ -41,3 +41,8 @@
 11. WashingMachine:
      States: waterLevel, remainingTime, loadSize
      Behaviors: drainWater(), startWash(), turnOn()
+
+12. Drone:
+     States: isFlying, batteryLevel, gpsLocation
+     Behaviors: recordVideo(), returnToHome(), takeOff()
+
