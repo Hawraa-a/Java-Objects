@@ -33,3 +33,7 @@
 9. Hourse: 
     States: name, age, color
     Behaviors: eating(), sleeping(), running()
+
+10. Camera:
+     States: lensType, batteryLevel, mode
+     Behaviors: takePhoto(), changeMode(), deletMedia()
