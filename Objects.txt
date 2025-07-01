@@ -23,6 +23,9 @@
     Behaviors: showNotification(), checkBattery(), trackSteps()
 
 7. Microwave:
-    States:currentMode, powerLevel, brand
-    Behaviors:setTimer(), setPowerLevel(), changeMode()
+    States: currentMode, powerLevel, brand
+    Behaviors: setTimer(), setPowerLevel(), changeMode()
 
+8. Printer:
+    States: inkLevel, paperCount, connectionType
+    Behaviors: addPaper(), refillInk(), turnOff()
