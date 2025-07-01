@@ -62,6 +62,10 @@
      States: title, author, numPage
      Behaviors: turnPage, opening, closing
 
+17. ElectricScooter:
+     States: speed, isLocked, brand
+     Behaviors: chargeBattery, braking, unlocking
+
 
 
 
