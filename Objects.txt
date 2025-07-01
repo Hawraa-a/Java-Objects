@@ -74,4 +74,7 @@
      States: age, isAquatic, species 
      Behaviors: eating, swimming, hideInShell
 
+20. Computer:
+     States: storageSize, processor, brand
+     Behaviors: runProgram, installSoftware, turnOn\turnOff
 
