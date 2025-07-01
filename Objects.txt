@@ -17,3 +17,7 @@
 5. CoffeeMachine:
     States: waterLevel, beanLevel, temperature
     Behaviors: refillWater(), displayStatus(), turnOn()
+
+6. SmartWatch:
+    States: heartRate, brand, batteryLevel
+    Behaviors: showNotification(), checkBattery(), trackSteps()
