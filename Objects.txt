@@ -70,6 +70,8 @@
      States: name, gpa, major
      Behaviors: takeExam, checkGrades, studying
 
-
+19. Turtle:
+     States: age, isAquatic, species 
+     Behaviors: eating, swimming, hideInShell
 
 
