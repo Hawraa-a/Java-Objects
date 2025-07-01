@@ -9,3 +9,8 @@
 3. AirConditioner:
     States: mode, fanSpeed, currentTemperature
     Behaviors: turnOn(), changeMode(), setTemperture()
+
+4. Tv:
+    States: isMuted, screenSize, volumeLevel
+    Behaviors: switchInput(), changeChannel(), increaseVolume()
+
