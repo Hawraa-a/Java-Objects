@@ -30,7 +30,7 @@
     States: inkLevel, paperCount, connectionType
     Behaviors: addPaper(), refillInk(), turnOff()
 
-9. Hourse: 
+9. Horse: 
     States: name, age, color
     Behaviors: eating(), sleeping(), running()
 
